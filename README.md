@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/alberthgrande" target="blank"><img src="https://img.shields.io/twitter/follow/alberthgrande?logo=twitter&style=for-the-badge" alt="alberthgrande" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at
 
