@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Dev**
 
-- 📫 How to reach me **alberthgrande98@gmail.com**
+- 📫 How to reach me **alberthruado@gmail.com**
 
 - ⚡ Fun fact **I love to learn and to rest because it is the most important thing if you're a human.**
 
