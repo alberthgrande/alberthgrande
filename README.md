@@ -66,9 +66,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthgrande&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberthgrande&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alberthgrande&theme=radical)](https://git.io/streak-stats)
