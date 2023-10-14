@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alberthgrande&label=Profile%20views&color=0e75b6&style=flat" alt="alberthgrande" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at
 
